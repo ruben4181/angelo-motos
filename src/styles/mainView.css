@@ -1,0 +1,9 @@
+.main-container{
+  padding-top: 90px;
+  margin-left: 320px;
+  transition: 0.2s;
+}
+
+.card{
+  cursor: pointer;
+}

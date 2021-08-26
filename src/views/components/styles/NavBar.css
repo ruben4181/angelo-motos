@@ -1,0 +1,15 @@
+.navbar-own-menu{
+  transition: 0.2s;
+}
+
+.menu-view{
+  margin-left: 320px !important;
+}
+
+.menu-hide{
+  margin-left: 80px !important;
+}
+
+.icon{
+  cursor: pointer;
+}
